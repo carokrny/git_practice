@@ -1,14 +1,14 @@
-#Hello Git and GitHub
+# Hello Git and GitHub
 ---
 A (very) simple project to learn through practice the functionality and syntax of Git, GitHub, and Markdown. 
 
-##Skills Learned: 
+## Skills Learned: 
 + Use the command line to navigate and create directories, and create and modify files. 
 + Use Git from the command line to initialize a repository, stage, and commit files. 
 + Use GitHub to create a remote repository and push commits. 
 + Use Markdown to create a formatted README file. 
 
-###Sources: 
+### Sources: 
 Learning these skills was made possible by the following sources:
 + [Codecademy Introduction to Git][1]
 + [Git Tutorial for Beginners][2] video by [Programming with Mosh][3]
@@ -24,7 +24,7 @@ Learning these skills was made possible by the following sources:
 [6]: https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ
 [7]: https://code.visualstudio.com/docs/languages/markdown
 
-###Future Work:
+### Future Work:
 + This practice project may be updated in the future to practice other Git and GitHub functionality, such as branching, pull requests, and merging. 
 
-######TTFN
+###### TTFN
